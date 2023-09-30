@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-    cout<<"Hago un login V2"<<endl;
+    cout<<"Hago un login v2"<<endl;
     }
